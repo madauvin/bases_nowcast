@@ -1,0 +1,137 @@
+TYPE,SECTEUR,SOUS_SECTEUR_PRODUIT,VARIABLE_FR,UNIT_MEASURE,FREQ,PAYS,SOURCE,IDBANK,LAST_UPDATE,START_DATE,END_DATE,GROUPE
+Enquête,Industrie,Industrie manufacturière (CZ),Activité limitée par l'insuffisance de personnel ,POURCENT,M,France,Insee,010758298,2025-09-19,1991-04-01,2025-09-01,Activité
+Enquête,Bâtiment,Construction (FZ),Activité prévue de l'entreprise,POURCENT,T,France,Insee,001587142,2025-07-25,1974-01-01,2025-07-01,Construction
+Enquête,Bâtiment,Construction (FZ),Activité récente de l'entreprise,POURCENT,T,France,Insee,001587131,2025-07-25,1974-01-01,2025-07-01,Construction
+Enquête,Industrie,,Etat du carnet de commandes,SO,M,France,Banque de France,ETCC,2025-09-09,1976-01-01,2025-08-01,Commandes et inventaires
+Enquête,Services,,Evolution de l'activité,SO,M,France,Banque de France,EVACT,2025-09-09,2002-10-01,2025-08-01,Activité
+Enquête,Services,,Evolution de la demande globale,SO,M,France,Banque de France,DETEM,2025-09-09,2002-10-01,2025-08-01,Commandes et inventaires
+Enquête,Industrie,,Evolution de la production,SO,M,France,Banque de France,EVPRO,2025-09-09,1976-01-01,2025-08-01,Activité
+Enquête,Industrie,,Evolution des commandes,SO,M,France,Banque de France,EVCOM,2025-09-09,1981-01-01,2025-08-01,Commandes et inventaires
+Enquête,Industrie,,Evolution des commandes reçues de l`étranger,SO,M,France,Banque de France,EVCOME,2025-09-09,1981-01-01,2025-08-01,Commandes et inventaires
+Enquête,Industrie,,Evolution des livraisons,SO,M,France,Banque de France,EVLIV,2025-09-09,1981-01-01,2025-08-01,Commandes et inventaires
+Enquête,Industrie,,Evolution du stock de produits finis,SO,M,France,Banque de France,EVSTPF,2025-09-09,1981-01-01,2025-08-01,Commandes et inventaires
+Enquête,Bâtiment,Construction (FZ),Impossibilité d'accroître la production en cas d'augmentation des commandes,POURCENT,M,France,Insee,001586922,2025-09-19,1975-01-01,2025-09-01,Construction
+Enquête,Ensemble,NA,Indicateur de retournement conjoncturel,SO,M,France,Insee,001565531,2025-09-19,1988-01-01,2025-09-01,Activité
+Enquête,Ensemble,NA,Indicateur du climat de l'emploi,SO,M,France,Insee,001796629,2025-09-19,1991-01-01,2025-09-01,Marché du travail
+Enquête,Ensemble,NA,Indicateur du climat des affaires,SO,M,France,Insee,001565530,2025-09-19,1977-01-01,2025-09-01,Activité
+Enquête,Ménages,NA,Indicateur synthétique de confiance des ménages ,SO,M,France,Insee,001587668,2025-08-26,1972-10-01,2025-08-01,Commandes et inventaires
+Enquête,Services,NA,Indicateur synthétique du climat des affaires,SO,M,France,Insee,001786559,2025-09-19,2003-02-01,2025-09-01,Activité
+Enquête,Services,NA,Intentions de commandes -  3 prochains mois ,POURCENT,M,France,Insee,001580429,2025-09-19,1991-01-01,2025-09-01,Commandes et inventaires
+Enquête,Industrie,Industrie manufacturière (CZ),Niveau des carnets de commandes globaux ,POURCENT,M,France,Insee,001585942,2025-09-19,1976-04-01,2025-09-01,Commandes et inventaires
+Enquête,Industrie,Industrie manufacturière (CZ),Niveau des carnets de commandes étrangers ,POURCENT,M,France,Insee,001585980,2025-09-19,1976-04-01,2025-09-01,Commandes et inventaires
+Enquête,Industrie,Industrie manufacturière (CZ),Niveau des stocks de produits finis ,POURCENT,M,France,Insee,001586017,2025-09-19,1976-04-01,2025-09-01,Commandes et inventaires
+Enquête,Bâtiment,Construction (FZ),Niveau du carnet de commande en mois de travail,MOIS,M,France,Insee,001586919,2025-09-19,1975-04-01,2025-09-01,Construction
+Enquête,Ménages,NA,Opinion sur l'opportunité de faire des achats importants ,SO,M,France,Insee,000857193,2025-08-26,1972-10-01,2025-08-01,Commandes et inventaires
+Enquête,Ménages,NA,Opinion sur le niveau de vie futur en France ,SO,M,France,Insee,000857189,2025-08-26,1970-01-01,2025-08-01,Commandes et inventaires
+Enquête,Ménages,NA,Opinion sur le niveau de vie passé en France ,SO,M,France,Insee,000857188,2025-08-26,1970-01-01,2025-08-01,Commandes et inventaires
+Enquête,Ménages,NA,Opinion sur leur situation financière future ,SO,M,France,Insee,000857197,2025-08-26,1970-01-01,2025-08-01,Commandes et inventaires
+Enquête,Ménages,NA,Opinion sur leur situation financière passée ,SO,M,France,Insee,000857196,2025-08-26,1970-01-01,2025-08-01,Commandes et inventaires
+Enquête,Bâtiment,Construction (FZ),Opinions sur le carnet de commandes ,POURCENT,T,France,Insee,001587140,2025-07-25,1974-01-01,2025-07-01,Construction
+Enquête,Industrie,Industrie manufacturière (CZ),Perspectives générales - Tendance probable du volume de la production industrielle ,POURCENT,M,France,Insee,001586052,2025-09-19,1976-04-01,2025-09-01,Activité
+Enquête,Services,,Prévision de l'activité,SO,M,France,Banque de France,PREVACT,2025-09-09,2002-10-01,2025-08-01,Activité
+Enquête,Industrie,,Prévision de production,SO,M,France,Banque de France,PREVPRO,2025-09-09,1976-01-01,2025-08-01,Activité
+Enquête,Services,,Situation de trésorerie,SO,M,France,Banque de France,NIVTRES,2025-09-09,2002-10-01,2025-08-01,"Monnaie, crédit, prix"
+Enquête,Industrie,,Situation des stocks de produits finis,SO,M,France,Banque de France,STPF,2025-09-09,1976-01-01,2025-08-01,Commandes et inventaires
+Enquête,Industrie,,Taux moyen d'utilisation des capacités de production,SO,M,France,Banque de France,TUC,2025-09-09,1981-01-01,2025-08-01,Activité
+Enquête,Bâtiment,Construction (FZ),Tendance d'évolution passée des effectifs,POURCENT,M,France,Insee,001586921,2025-09-19,1975-04-01,2025-09-01,Construction
+Enquête,Industrie,Industrie manufacturière (CZ),Tendance d'évolution passée des effectifs ,POURCENT,M,France,Insee,010546531,2025-09-19,1976-04-01,2025-09-01,Marché du travail
+Enquête,Bâtiment,Construction (FZ),Tendance d'évolution prévue des effectifs,POURCENT,M,France,Insee,001586920,2025-09-19,1975-01-01,2025-09-01,Construction
+Enquête,Industrie,Industrie manufacturière (CZ),Tendance d'évolution prévue des effectifs ,POURCENT,M,France,Insee,010546493,2025-09-19,1976-04-01,2025-09-01,Marché du travail
+Enquête,Bâtiment,Construction (FZ),Tendance de l'activité passée,POURCENT,M,France,Insee,001586917,2025-09-19,1975-01-01,2025-09-01,Construction
+Enquête,Bâtiment,Construction (FZ),Tendance de l'activité prévue,POURCENT,M,France,Insee,001586916,2025-09-19,1975-01-01,2025-09-01,Construction
+Enquête,Services,NA,Tendance passée de l'activité ,POURCENT,M,France,Insee,001582081,2025-09-19,1988-01-01,2025-09-01,Activité
+Enquête,Industrie,Industrie manufacturière (CZ),Tendance passée de la production ,POURCENT,M,France,Insee,001586064,2025-09-19,1976-04-01,2025-09-01,Activité
+Enquête,Services,NA,Tendance passée des effectifs ,POURCENT,M,France,Insee,001585807,2025-09-19,1988-01-01,2025-09-01,Marché du travail
+Enquête,Services,NA,Tendance prévue de l'activité ,POURCENT,M,France,Insee,001582085,2025-09-19,1988-01-01,2025-09-01,Activité
+Enquête,Services,NA,Tendance prévue de la demande ,POURCENT,M,France,Insee,001585791,2025-09-19,1988-01-01,2025-09-01,Commandes et inventaires
+Enquête,Services,NA,Tendance prévue des effectifs ,POURCENT,M,France,Insee,001585811,2025-09-19,1988-01-01,2025-09-01,Marché du travail
+Enquête,Services,NA,Évolution des affaires (ventes) -  3 derniers mois ,POURCENT,M,France,Insee,001580015,2025-09-19,1991-01-01,2025-09-01,Activité
+Enquête,Services,NA,Évolution des effectifs -  3 prochains mois ,POURCENT,M,France,Insee,001580475,2025-09-19,1991-01-01,2025-09-01,Marché du travail
+Enquête,Bâtiment,Construction (FZ),Évolution prévue des effectifs ,POURCENT,T,France,Insee,001587148,2025-07-25,1974-01-01,2025-07-01,Construction
+Réel,Industrie,"Electricité, gaz et autres (DZ)",Consommation brute d'électricité et de gaz,UNITES,M,France,ODRE,CONSONRJ,2025-09-17,2012-01-01,2024-12-01,Activité
+Réel,Ménages,Biens manufacturés ,Consommation mensuelle des ménages en biens,UNITES,M,France,Insee,011794489,2025-08-29,1980-01-01,2025-07-01,Commandes et inventaires
+Réel,Ménages,Biens durables ,Consommation mensuelle des ménages en biens,UNITES,M,France,Insee,011794493,2025-08-29,1980-01-01,2025-07-01,Commandes et inventaires
+Réel,Ménages,Matériels de transport ,Consommation mensuelle des ménages en biens,UNITES,M,France,Insee,011794484,2025-08-29,1980-01-01,2025-07-01,Commandes et inventaires
+Réel,Ménages,Équipement du logement ,Consommation mensuelle des ménages en biens,UNITES,M,France,Insee,011794497,2025-08-29,1980-01-01,2025-07-01,Commandes et inventaires
+Réel,Ménages,Textile,Consommation mensuelle des ménages en biens,UNITES,M,France,Insee,011794494,2025-08-29,1980-01-01,2025-07-01,Commandes et inventaires
+Réel,Ménages,Autres biens fabriqués ,Consommation mensuelle des ménages en biens,UNITES,M,France,Insee,011794495,2025-08-29,1980-01-01,2025-07-01,Commandes et inventaires
+Réel,Ménages,Alimentaire hors tabac ,Consommation mensuelle des ménages en biens,UNITES,M,France,Insee,011794482,2025-08-29,1980-01-01,2025-07-01,Commandes et inventaires
+Réel,Ménages,"Énergie, eau et déchets ",Consommation mensuelle des ménages en biens,UNITES,M,France,Insee,011794485,2025-08-29,1980-01-01,2025-07-01,Commandes et inventaires
+Réel,Ensemble,,Demandeurs d'emplois en fin de mois,INDIVIDUS,M,France,Dares/FT,DEFM,2025-08-27,1996-01-01,2025-07-01,Marché du travail
+Réel,Ensemble,,Déclarations d'embauches - CDD + de 1 mois,UNITES,M,France,France Travail,DPAECDD,2025-08-22,2000-01-01,2025-07-01,Marché du travail
+Réel,Ensemble,,Déclarations d'embauches - CDI,UNITES,M,France,France Travail,DPAECDI,2025-08-22,2000-01-01,2025-07-01,Marché du travail
+Réel,Ensemble,,Défaillances d'entreprises,UNITES,M,France,Banque de France,DEF,2025-09-05,1990-01-01,2025-07-01,Activité
+Réel,Ensemble,,Emplois intérimaires,INDIVIDUS,M,France,Dares,INTERIM,2025-08-28,2000-02-01,2025-07-01,Marché du travail
+Réel,Ensemble,,Emplois vacants,INDIVIDUS,T,France,Dares,VACANTS,2025-09-15,2011-04-01,2025-04-01,Marché du travail
+Réel,Ensemble,,Exportations de marchandises,UNITES,M,France,Douanes françaises,Export,2025-09-23,2016-01-01,2025-07-01,Activité
+Réel,Ménages,Industrie automobile (CL1),Immatriculations de voitures particulières neuves,UNITE,M,France,Insee,010756764,2025-09-02,2010-01-01,2025-08-01,Commandes et inventaires
+Réel,Ensemble,,Importations de marchandises,UNITES,M,France,Douanes françaises,Import,2025-09-23,2016-01-01,2025-07-01,Activité
+Réel,Services,"Services (HZ-JZ, LZ-NZ, RZ & SZ)",Indice de chiffre d'affaires - Ensemble des services,SO,M,France,Insee,010774858,2025-08-28,1999-01-01,2025-06-01,Activité
+Réel,Industrie,Industrie manufacturière (CZ),Indice de chiffre d'affaires - Export ,SO,M,France,Insee,010771383,2025-08-28,1999-01-01,2025-06-01,Activité
+Réel,Industrie,Industrie manufacturière (CZ),Indice de chiffre d'affaires - Marché intérieur ,SO,M,France,Insee,010771767,2025-08-28,1999-01-01,2025-06-01,Activité
+Réel,Bâtiment,Construction (FZ),Indice de chiffre d'affaires - Marché intérieur et export ,SO,M,France,Insee,010773569,2025-08-28,1999-01-01,2025-06-01,Construction
+Réel,Industrie,Industrie manufacturière (CZ),Indice de la production industrielle,SO,M,France,Insee,010768307,2025-09-09,1990-01-01,2025-07-01,Activité
+Réel,Industrie,"Fab. aliments, boiss. & prdts base tabac (C1)",Indice de la production industrielle,SO,M,France,Insee,010768267,2025-09-09,1990-01-01,2025-07-01,Activité
+Réel,Industrie,Cokéfaction et raffinage (C2),Indice de la production industrielle,SO,M,France,Insee,010768269,2025-09-09,1990-01-01,2025-07-01,Activité
+Réel,Industrie,"Fab. éq. élec., électr., inf. & machines (C3)",Indice de la production industrielle,SO,M,France,Insee,010768271,2025-09-09,1990-01-01,2025-07-01,Activité
+Réel,Industrie,Industrie automobile (CL1),Indice de la production industrielle,SO,M,France,Insee,010768301,2025-09-09,1990-01-01,2025-07-01,Activité
+Réel,Industrie,Fab. d'autres matériels de transport (CL2),Indice de la production industrielle,SO,M,France,Insee,010768303,2025-09-09,1990-01-01,2025-07-01,Activité
+Réel,Industrie,Fab. d'autres produits industriels (C5),Indice de la production industrielle,SO,M,France,Insee,010768275,2025-09-09,1990-01-01,2025-07-01,Activité
+Réel,Industrie,"Extr., énerg., eau, gestn déch. & dépol. (DE)",Indice de la production industrielle,SO,M,France,Insee,010768311,2025-09-09,1990-01-01,2025-07-01,Activité
+Réel,Bâtiment,Construction (FZ),Indice de la production industrielle,SO,M,France,Insee,010768320,2025-09-09,1990-01-01,2025-07-01,Construction
+Réel,Ménages,NA,Indice des prix à la consommation harmonisé,SO,M,France,Insee,001759971,2025-09-12,1996-01-01,2025-08-01,"Monnaie, crédit, prix"
+Réel,Ensemble,NA,Nombre de créations d'entreprises,UNITE,M,France,Insee,010755537,2025-09-18,2000-01-01,2025-08-01,Activité
+Réel,Bâtiment,Construction (FZ),Nombre de logements autorisés - Coll.  ou en résidence ,SO,M,France,Insee,010752267,2025-08-28,1994-01-01,2025-07-01,Construction
+Réel,Bâtiment,Construction (FZ),Nombre de logements autorisés - Ind.  groupés ,SO,M,France,Insee,001718146,2025-08-28,1994-01-01,2025-07-01,Construction
+Réel,Bâtiment,Construction (FZ),Nombre de logements autorisés - Ind.  purs ,SO,M,France,Insee,001718145,2025-08-28,1994-01-01,2025-07-01,Construction
+Réel,Bâtiment,Construction (FZ),Nombre de logements autorisés - Total ,SO,M,France,Insee,010752271,2025-08-28,2000-01-01,2025-07-01,Construction
+Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - Coll.  hors résidence ,SO,M,France,Insee,001718152,2025-08-28,2000-01-01,2025-07-01,Construction
+Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - En résidence ,SO,M,France,Insee,001718153,2025-08-28,2000-01-01,2025-07-01,Construction
+Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - Ind.  groupés ,SO,M,France,Insee,001718151,2025-08-28,2000-01-01,2025-07-01,Construction
+Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - Ind.  purs ,SO,M,France,Insee,001718150,2025-08-28,2000-01-01,2025-07-01,Construction
+Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - Total ,SO,M,France,Insee,001718154,2025-08-28,2000-01-01,2025-07-01,Construction
+Réel,Ensemble,,Offres d'emplois collectées par France Travail,UNITES,M,France,France Travail,OFFREEMPLOIFT,2025-08-27,1996-01-01,2025-07-01,Marché du travail
+Réel,Ensemble,,Taux d'emplois vacants,POURCENT,T,France,Dares,TXVACANCE,2025-09-15,2011-04-01,2025-04-01,Marché du travail
+Réel,Ménages,,Taux de chômage - Moins de 25 ans,POURCENT,M,France,Eurostat,UNERTM25,2025-09-18,1983-01-01,2025-07-01,Marché du travail
+Réel,Ménages,,Taux de chômage - Population totale,POURCENT,M,France,Eurostat,UNERTMT,2025-09-18,1983-01-01,2025-07-01,Marché du travail
+Réel,Ensemble,,Trafic arérien (Départs/Arrivées),UNITES,Q,France,Eurocontrol,FLIGHTS,2025-09-08,2017-01-01,2025-08-01,Activité
+Réel,Ménages,,Volume de crédits distribués - Particuliers,UNITES,M,France,Banque de France,CREDHAB,2025-09-08,2003-01-01,2025-07-01,"Monnaie, crédit, prix"
+Réel,Ensemble,,Volume de crédits distribués - SNF résidentes,UNITES,M,France,Banque de France,CREDSNF,2025-09-10,2003-01-01,2025-07-01,"Monnaie, crédit, prix"
+Nominal,Ensemble,NA,Masse monétaire M1 - Etats-Unis,UNITES,M,Etats-Unis,FRED,M1REAL,2025-08-26,1990-01-01,2025-07-01,International
+Nominal,Ensemble,NA,Masse monétaire M2 - Etats-Unis,UNITES,M,Etats-Unis,FRED,M2REAL,2025-08-26,1990-01-01,2025-07-01,International
+Nominal,Ensemble,,Masse monétaire - M1,UNITES,M,France,Banque de France,M1,2025-08-29,1977-12-01,2025-07-01,"Monnaie, crédit, prix"
+Nominal,Ensemble,,Masse monétaire - M2,UNITES,M,France,Banque de France,M2,2025-08-29,1980-01-01,2025-07-01,"Monnaie, crédit, prix"
+Nominal,Ensemble,,Masse monétaire - M3,UNITES,M,France,Banque de France,M3,2025-08-29,1976-01-01,2025-07-01,"Monnaie, crédit, prix"
+Nominal,NA,NA,Taux d'intérêt à 10 ans - Etats-Unis,POURCENT,M,France,FRED,IRLTLT01FRM156N,2025-09-15,1990-01-01,2025-08-01,International
+Nominal,NA,NA,Taux d'intérêt à 3 mois - Etats-Unis,POURCENT,M,France,FRED,IR3TIB01FRM156N,2025-09-15,1990-01-01,2025-08-01,International
+Nominal,Ménages,,Taux d'intérêt à l'habitat,POURCENTAGE,M,France,Banque de France,TXCREDHAB,2025-09-08,2003-01-01,2025-07-01,Finance
+Nominal,Ensemble,,Taux d'intérêt à l'échéance constante - 1 an,POURCENTAGE,Q,France,Banque de France,TAUX1AN,2025-09-19,2004-11-01,2025-09-01,Finance
+Nominal,Finance,NA,Taux de change effectif EUR,INDICE,M,France,FRED,RBFRBIS,2025-09-18,1994-01-01,2025-08-01,Finance
+International,Finance,,DAX,INDICE,Q,Allemagne,Yahoo Finance,DAX,2025-09-23,1987-12-01,2025-09-23,Finance
+International,Industrie,Industrie manufacturière (CZ),Indice de production industrielle - Allemagne,INDICE,M,Allemagne,Eurostat,STSINPRMALL,2025-09-16,1991-01-01,2025-07-01,International
+International,Industrie,Industrie manufacturière (CZ),Indice de production industrielle - Etats-Unis,INDICE,M,Etats-Unis,FRED,IPMAN,2025-09-16,1990-01-01,2025-08-01,International
+International,Industrie,Industrie manufacturière (CZ),Indice des prix à la production - Etats-Unis,INDICE,M,Etats-Unis,FRED,PCUOMFGOMFG,2025-09-10,1990-01-01,2025-08-01,International
+International,Finance,,SP500,INDICE,Q,Etats-Unis,Yahoo Finance,SP500,2025-09-23,1985-01-01,2025-09-23,Finance
+International,Ménages,NA,Taux d'emploi - Etats-Unis,POURCENT,M,Etats-Unis,FRED,LREM64TTUSM156S,2025-09-15,1990-01-01,2025-08-01,International
+International,NA,NA,Taux d'intérêt à 1 an - Etats-Unis,POURCENT,M,Etats-Unis,FRED,REAINTRATREARAT1YE,2025-09-11,1990-01-01,2025-09-01,International
+International,Ménages,NA,Taux de chômage - Etats-Unis,POURCENT,M,Etats-Unis,FRED,UNRATE,2025-09-05,1990-01-01,2025-08-01,International
+International,Services,Commerce de détail (GZ-47),Ventes - Etats-Unis,UNITES,M,Etats-Unis,FRED,RSXFS,2025-09-16,1992-01-01,2025-08-01,International
+International,Finance,,CAC40,INDICE,Q,France,Yahoo Finance,CAC40,2025-09-23,1990-03-01,2025-09-23,Finance
+International,Ensemble, ,Incertitude de politique économique - FREPU,INDICE,M,France,"Baker, Bloom, Davis (2016)",FREPU,2025-08-28,1987-01-01,2025-08-01,Incertitude
+International,Ensemble, ,Risque politique - FRIP,INDICE,M,France,"Caldara, Dario, and Matteo Iacoviello (2021)",FRIP,2025-09-22,1985-01-01,2025-08-01,Incertitude
+International,Finance,,Taux de change EUR-CNY,POURCENTAGE,Q,France,Yahoo Finance,EURO.CNY,2025-09-23,2003-12-01,2025-09-23,Finance
+International,Finance,,Taux de change EUR-GBP,POURCENTAGE,Q,France,Yahoo Finance,EURO.GBP,2025-09-23,1999-01-01,2025-09-23,Finance
+International,Finance,,Taux de change EUR-JPY,POURCENTAGE,Q,France,Yahoo Finance,EURO.JPY,2025-09-23,2003-01-01,2025-09-23,Finance
+International,Finance,,Taux de change EUR-USD,POURCENTAGE,Q,France,Yahoo Finance,EURO.USD,2025-09-23,2003-12-01,2025-09-23,Finance
+International,Finance,,Taux de change effectif - Euro,POURCENTAGE,M,France,Eurostat,TCNEURO,2025-09-10,1994-01-01,2025-07-01,Finance
+International,Ensemble,,Difficultés d'approvisionnement - GSCPI,INDICE,M,International,NYFed,GSCPI,2025-09-04,1998-01-01,2025-08-01,International
+International,Ensemble,,Nowcast du PIB mondial,POURCENTAGE,H,International,UNCTAD,NOWCGDP,2025-09-23,2020-04-01,2025-09-01,International
+International,Services,,Nowcast du commerce mondial de marchandises,POURCENTAGE,H,International,UNCTAD,NOWCMERCH,2025-09-23,2020-04-01,2025-09-01,International
+International,Services,,Nowcast du commerce mondial de services,POURCENTAGE,H,International,UNCTAD,NOWCSERV,2025-09-23,2020-04-01,2025-09-01,International
+International,Finance,,Prix du Brent - USD,UNITES,Q,International,Yahoo Finance,Brent,2025-09-23,2007-07-01,2025-09-23,"Monnaie, crédit, prix"
+International,Finance,,VIX,INDICE,Q,International,Yahoo Finance,VIX,2025-09-23,1990-01-01,2025-09-23,Incertitude
+International,Ensemble,,Volume du commerce mondial de marchandises,INDICE,M,International,CPB,TGZW1QNMISNM,2025-06-25,2000-01-01,2025-06-01,International
+International,Finance,,NIKKEI,INDICE,Q,Japon,Yahoo Finance,NIKKEI,2025-09-23,1985-01-01,2025-09-23,Finance
+International,Finance,,FTSE,INDICE,Q,Royaume-Uni,Yahoo Finance,FTSE,2025-09-23,1985-01-01,2025-09-23,Finance
+International,NA,NA,Prix de l'or,INDICE,M,NA,FRED,IQ12260,2025-09-16,1990-03-01,2025-08-01,"Monnaie, crédit, prix"
+International,NA,NA,Prix des matières premières,INDICE,M,NA,FRED,PRAWMINDEXM,2025-07-18,1990-01-01,2025-06-01,"Monnaie, crédit, prix"

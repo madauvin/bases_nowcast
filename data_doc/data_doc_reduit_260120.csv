@@ -1,0 +1,137 @@
+IDBANK,GROUPE,TYPE,SECTEUR,SOUS_SECTEUR_PRODUIT,VARIABLE_FR,FREQ,PAYS,SOURCE,LAST_UPDATE,DELAIS_m,DELAIS_j
+010758298,Activité,Enquête,Industrie,Industrie manufacturière (CZ),Activité limitée par l'insuffisance de personnel ,M,France,Insee,2025-12-18,M+0,17
+001587142,Construction,Enquête,Bâtiment,Construction (FZ),Activité prévue de l'entreprise,T,France,Insee,2025-10-24,M+0,23
+001587131,Construction,Enquête,Bâtiment,Construction (FZ),Activité récente de l'entreprise,T,France,Insee,2025-10-24,M+0,23
+ETCC,Commandes et inventaires,Enquête,Industrie,,Etat du carnet de commandes,M,France,Banque de France,2026-01-13,M+1,43
+EVACT,Activité,Enquête,Services,,Evolution de l'activité,M,France,Banque de France,2026-01-13,M+1,43
+DETEM,Commandes et inventaires,Enquête,Services,,Evolution de la demande globale,M,France,Banque de France,2026-01-13,M+1,43
+EVPRO,Activité,Enquête,Industrie,,Evolution de la production,M,France,Banque de France,2026-01-13,M+1,43
+EVCOM,Commandes et inventaires,Enquête,Industrie,,Evolution des commandes,M,France,Banque de France,2026-01-13,M+1,43
+EVCOME,Commandes et inventaires,Enquête,Industrie,,Evolution des commandes reçues de l`étranger,M,France,Banque de France,2026-01-13,M+1,43
+EVLIV,Commandes et inventaires,Enquête,Industrie,,Evolution des livraisons,M,France,Banque de France,2026-01-13,M+1,43
+EVSTPF,Commandes et inventaires,Enquête,Industrie,,Evolution du stock de produits finis,M,France,Banque de France,2026-01-13,M+1,43
+001586922,Construction,Enquête,Bâtiment,Construction (FZ),Impossibilité d'accroître la production en cas d'augmentation des commandes,M,France,Insee,2025-12-18,M+0,17
+001565531,Activité,Enquête,Ensemble,NA,Indicateur de retournement conjoncturel,M,France,Insee,2025-12-18,M+0,17
+001796629,Marché du travail,Enquête,Ensemble,NA,Indicateur du climat de l'emploi,M,France,Insee,2025-12-18,M+0,17
+001565530,Activité,Enquête,Ensemble,NA,Indicateur du climat des affaires,M,France,Insee,2025-12-18,M+0,17
+001587668,Commandes et inventaires,Enquête,Ménages,NA,Indicateur synthétique de confiance des ménages ,M,France,Insee,2026-01-07,M+1,37
+001786559,Activité,Enquête,Services,NA,Indicateur synthétique du climat des affaires,M,France,Insee,2025-12-18,M+0,17
+001580429,Commandes et inventaires,Enquête,Services,NA,Intentions de commandes -  3 prochains mois ,M,France,Insee,2025-12-18,M+0,17
+001585942,Commandes et inventaires,Enquête,Industrie,Industrie manufacturière (CZ),Niveau des carnets de commandes globaux ,M,France,Insee,2025-12-18,M+0,17
+001585980,Commandes et inventaires,Enquête,Industrie,Industrie manufacturière (CZ),Niveau des carnets de commandes étrangers ,M,France,Insee,2025-12-18,M+0,17
+001586017,Commandes et inventaires,Enquête,Industrie,Industrie manufacturière (CZ),Niveau des stocks de produits finis ,M,France,Insee,2025-12-18,M+0,17
+001586919,Construction,Enquête,Bâtiment,Construction (FZ),Niveau du carnet de commande en mois de travail,M,France,Insee,2025-12-18,M+0,17
+000857193,Commandes et inventaires,Enquête,Ménages,NA,Opinion sur l'opportunité de faire des achats importants ,M,France,Insee,2026-01-07,M+1,37
+000857189,Commandes et inventaires,Enquête,Ménages,NA,Opinion sur le niveau de vie futur en France ,M,France,Insee,2026-01-07,M+1,37
+000857188,Commandes et inventaires,Enquête,Ménages,NA,Opinion sur le niveau de vie passé en France ,M,France,Insee,2026-01-07,M+1,37
+000857197,Commandes et inventaires,Enquête,Ménages,NA,Opinion sur leur situation financière future ,M,France,Insee,2026-01-07,M+1,37
+000857196,Commandes et inventaires,Enquête,Ménages,NA,Opinion sur leur situation financière passée ,M,France,Insee,2026-01-07,M+1,37
+001587140,Construction,Enquête,Bâtiment,Construction (FZ),Opinions sur le carnet de commandes ,T,France,Insee,2025-10-24,M+0,23
+001586052,Activité,Enquête,Industrie,Industrie manufacturière (CZ),Perspectives générales - Tendance probable du volume de la production industrielle ,M,France,Insee,2025-12-18,M+0,17
+PREVACT,Activité,Enquête,Services,,Prévision de l'activité,M,France,Banque de France,2026-01-13,M+1,43
+PREVPRO,Activité,Enquête,Industrie,,Prévision de production,M,France,Banque de France,2026-01-13,M+1,43
+NIVTRES,"Monnaie, crédit, prix",Enquête,Services,,Situation de trésorerie,M,France,Banque de France,2026-01-13,M+1,43
+STPF,Commandes et inventaires,Enquête,Industrie,,Situation des stocks de produits finis,M,France,Banque de France,2026-01-13,M+1,43
+TUC,Activité,Enquête,Industrie,,Taux moyen d'utilisation des capacités de production,M,France,Banque de France,2026-01-13,M+1,43
+001586921,Construction,Enquête,Bâtiment,Construction (FZ),Tendance d'évolution passée des effectifs,M,France,Insee,2025-12-18,M+0,17
+010546531,Marché du travail,Enquête,Industrie,Industrie manufacturière (CZ),Tendance d'évolution passée des effectifs ,M,France,Insee,2025-12-18,M+0,17
+001586920,Construction,Enquête,Bâtiment,Construction (FZ),Tendance d'évolution prévue des effectifs,M,France,Insee,2025-12-18,M+0,17
+010546493,Marché du travail,Enquête,Industrie,Industrie manufacturière (CZ),Tendance d'évolution prévue des effectifs ,M,France,Insee,2025-12-18,M+0,17
+001586917,Construction,Enquête,Bâtiment,Construction (FZ),Tendance de l'activité passée,M,France,Insee,2025-12-18,M+0,17
+001586916,Construction,Enquête,Bâtiment,Construction (FZ),Tendance de l'activité prévue,M,France,Insee,2025-12-18,M+0,17
+001582081,Activité,Enquête,Services,NA,Tendance passée de l'activité ,M,France,Insee,2025-12-18,M+0,17
+001586064,Activité,Enquête,Industrie,Industrie manufacturière (CZ),Tendance passée de la production ,M,France,Insee,2025-12-18,M+0,17
+001585807,Marché du travail,Enquête,Services,NA,Tendance passée des effectifs ,M,France,Insee,2025-12-18,M+0,17
+001582085,Activité,Enquête,Services,NA,Tendance prévue de l'activité ,M,France,Insee,2025-12-18,M+0,17
+001585791,Commandes et inventaires,Enquête,Services,NA,Tendance prévue de la demande ,M,France,Insee,2025-12-18,M+0,17
+001585811,Marché du travail,Enquête,Services,NA,Tendance prévue des effectifs ,M,France,Insee,2025-12-18,M+0,17
+001580015,Activité,Enquête,Services,NA,Évolution des affaires (ventes) -  3 derniers mois ,M,France,Insee,2025-12-18,M+0,17
+001580475,Marché du travail,Enquête,Services,NA,Évolution des effectifs -  3 prochains mois ,M,France,Insee,2025-12-18,M+0,17
+001587148,Construction,Enquête,Bâtiment,Construction (FZ),Évolution prévue des effectifs ,T,France,Insee,2025-10-24,M+0,23
+CONSONRJ,Activité,Réel,Industrie,"Electricité, gaz et autres (DZ)",Consommation brute d'électricité et de gaz,M,France,ODRE,2025-11-13,M+4,347
+011794489,Commandes et inventaires,Réel,Ménages,Biens manufacturés ,Consommation mensuelle des ménages en biens,M,France,Insee,2026-01-09,M+2,69
+011794493,Commandes et inventaires,Réel,Ménages,Biens durables ,Consommation mensuelle des ménages en biens,M,France,Insee,2026-01-09,M+2,69
+011794484,Commandes et inventaires,Réel,Ménages,Matériels de transport ,Consommation mensuelle des ménages en biens,M,France,Insee,2026-01-09,M+2,69
+011794497,Commandes et inventaires,Réel,Ménages,Équipement du logement ,Consommation mensuelle des ménages en biens,M,France,Insee,2026-01-09,M+2,69
+011794494,Commandes et inventaires,Réel,Ménages,Textile,Consommation mensuelle des ménages en biens,M,France,Insee,2026-01-09,M+2,69
+011794495,Commandes et inventaires,Réel,Ménages,Autres biens fabriqués ,Consommation mensuelle des ménages en biens,M,France,Insee,2026-01-09,M+2,69
+011794482,Commandes et inventaires,Réel,Ménages,Alimentaire hors tabac ,Consommation mensuelle des ménages en biens,M,France,Insee,2026-01-09,M+2,69
+011794485,Commandes et inventaires,Réel,Ménages,"Énergie, eau et déchets ",Consommation mensuelle des ménages en biens,M,France,Insee,2026-01-09,M+2,69
+DEFM,Marché du travail,Réel,Ensemble,,Demandeurs d'emplois en fin de mois,M,France,Dares/FT,2025-11-29,M+0,28
+DPAECDD,Marché du travail,Réel,Ensemble,,Déclarations d'embauches - CDD + de 1 mois,M,France,France Travail,2025-10-22,M+1,51
+DPAECDI,Marché du travail,Réel,Ensemble,,Déclarations d'embauches - CDI,M,France,France Travail,2025-10-22,M+1,51
+DEF,Activité,Réel,Ensemble,,Défaillances d'entreprises,M,France,Banque de France,2026-01-09,M+2,69
+INTERIM,Marché du travail,Réel,Ensemble,,Emplois intérimaires,M,France,Dares,2026-01-14,M+2,74
+VACANTS,Marché du travail,Réel,Ensemble,,Emplois vacants,T,France,Dares,2025-12-16,M+4,168
+Export,Activité,Réel,Ensemble,,Exportations de marchandises,M,France,Douanes françaises,2026-01-20,M+2,80
+010756764,Commandes et inventaires,Réel,Ménages,Industrie automobile (CL1),Immatriculations de voitures particulières neuves,M,France,Insee,2026-01-05,M+1,35
+Import,Activité,Réel,Ensemble,,Importations de marchandises,M,France,Douanes françaises,2026-01-20,M+2,80
+010774858,Activité,Réel,Services,"Services (HZ-JZ, LZ-NZ, RZ & SZ)",Indice de chiffre d'affaires - Ensemble des services,M,France,Insee,2025-12-19,M+2,79
+010771383,Activité,Réel,Industrie,Industrie manufacturière (CZ),Indice de chiffre d'affaires - Export ,M,France,Insee,2025-12-19,M+2,79
+010771767,Activité,Réel,Industrie,Industrie manufacturière (CZ),Indice de chiffre d'affaires - Marché intérieur ,M,France,Insee,2025-12-19,M+2,79
+010773569,Construction,Réel,Bâtiment,Construction (FZ),Indice de chiffre d'affaires - Marché intérieur et export ,M,France,Insee,2025-12-19,M+2,79
+010768307,Activité,Réel,Industrie,Industrie manufacturière (CZ),Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+010768267,Activité,Réel,Industrie,"Fab. aliments, boiss. & prdts base tabac (C1)",Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+010768269,Activité,Réel,Industrie,Cokéfaction et raffinage (C2),Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+010768271,Activité,Réel,Industrie,"Fab. éq. élec., électr., inf. & machines (C3)",Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+010768301,Activité,Réel,Industrie,Industrie automobile (CL1),Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+010768303,Activité,Réel,Industrie,Fab. d'autres matériels de transport (CL2),Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+010768275,Activité,Réel,Industrie,Fab. d'autres produits industriels (C5),Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+010768311,Activité,Réel,Industrie,"Extr., énerg., eau, gestn déch. & dépol. (DE)",Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+010768320,Construction,Réel,Bâtiment,Construction (FZ),Indice de la production industrielle,M,France,Insee,2026-01-09,M+2,69
+001759971,"Monnaie, crédit, prix",Réel,Ménages,NA,Indice des prix à la consommation harmonisé,M,France,Insee,2026-01-15,M+1,45
+010755537,Activité,Réel,Ensemble,NA,Nombre de créations d'entreprises,M,France,Insee,2025-12-19,M+1,48
+010752267,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements autorisés - Coll.  ou en résidence ,M,France,Insee,2025-12-31,M+2,60
+001718146,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements autorisés - Ind.  groupés ,M,France,Insee,2025-12-31,M+2,60
+001718145,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements autorisés - Ind.  purs ,M,France,Insee,2025-12-31,M+2,60
+010752271,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements autorisés - Total ,M,France,Insee,2025-12-31,M+2,60
+001718152,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - Coll.  hors résidence ,M,France,Insee,2025-12-31,M+2,60
+001718153,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - En résidence ,M,France,Insee,2025-12-31,M+2,60
+001718151,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - Ind.  groupés ,M,France,Insee,2025-12-31,M+2,60
+001718150,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - Ind.  purs ,M,France,Insee,2025-12-31,M+2,60
+001718154,Construction,Réel,Bâtiment,Construction (FZ),Nombre de logements commencés - Total ,M,France,Insee,2025-12-31,M+2,60
+OFFREEMPLOIFT,Marché du travail,Réel,Ensemble,,Offres d'emplois collectées par France Travail,M,France,France Travail,2025-12-29,M+1,58
+TXVACANCE,Marché du travail,Réel,Ensemble,,Taux d'emplois vacants,T,France,Dares,2025-12-16,M+4,168
+UNERTM25,Marché du travail,Réel,Ménages,,Taux de chômage - Moins de 25 ans,M,France,Eurostat,2026-01-15,M+2,75
+UNERTMT,Marché du travail,Réel,Ménages,,Taux de chômage - Population totale,M,France,Eurostat,2026-01-15,M+2,75
+FLIGHTS,Activité,Réel,Ensemble,,Trafic arérien (Départs/Arrivées),Q,France,Eurocontrol,2024-12-04,M+0,-332
+CREDHAB,"Monnaie, crédit, prix",Réel,Ménages,,Volume de crédits distribués - Particuliers,M,France,Banque de France,2026-01-12,M+2,72
+CREDSNF,"Monnaie, crédit, prix",Réel,Ensemble,,Volume de crédits distribués - SNF résidentes,M,France,Banque de France,2026-01-12,M+2,72
+M1REAL,International,Nominal,Ensemble,NA,Masse monétaire M1 - Etats-Unis,M,Etats-Unis,FRED,2025-12-23,M+1,52
+M2REAL,International,Nominal,Ensemble,NA,Masse monétaire M2 - Etats-Unis,M,Etats-Unis,FRED,2025-12-23,M+1,52
+M1,"Monnaie, crédit, prix",Nominal,Ensemble,,Masse monétaire - M1,M,France,Banque de France,2026-01-02,M+2,62
+M2,"Monnaie, crédit, prix",Nominal,Ensemble,,Masse monétaire - M2,M,France,Banque de France,2026-01-02,M+2,62
+M3,"Monnaie, crédit, prix",Nominal,Ensemble,,Masse monétaire - M3,M,France,Banque de France,2026-01-02,M+2,62
+IRLTLT01FRM156N,International,Nominal,NA,NA,Taux d'intérêt à 10 ans - Etats-Unis,M,France,FRED,2026-01-15,M+1,45
+IR3TIB01FRM156N,International,Nominal,NA,NA,Taux d'intérêt à 3 mois - Etats-Unis,M,France,FRED,2026-01-15,M+1,45
+TXCREDHAB,Finance,Nominal,Ménages,,Taux d'intérêt à l'habitat,M,France,Banque de France,2026-01-12,M+2,72
+TAUX1AN,Finance,Nominal,Ensemble,,Taux d'intérêt à l'échéance constante - 1 an,Q,France,Banque de France,2026-01-19,M+0,18
+RBFRBIS,Finance,Nominal,Finance,NA,Taux de change effectif EUR,M,France,FRED,2025-12-18,M+1,47
+DAX,Finance,International,Finance,,DAX,Q,Allemagne,Yahoo Finance,2026-01-20,M+0,0
+STSINPRMALL,International,International,Industrie,Industrie manufacturière (CZ),Indice de production industrielle - Allemagne,M,Allemagne,Eurostat,2026-01-15,M+2,75
+IPMAN,International,International,Industrie,Industrie manufacturière (CZ),Indice de production industrielle - Etats-Unis,M,Etats-Unis,FRED,2026-01-16,M+1,46
+PCUOMFGOMFG,International,International,Industrie,Industrie manufacturière (CZ),Indice des prix à la production - Etats-Unis,M,Etats-Unis,FRED,2026-01-14,M+2,74
+SP500,Finance,International,Finance,,SP500,Q,Etats-Unis,Yahoo Finance,2026-01-20,M+0,0
+LREM64TTUSM156S,International,International,Ménages,NA,Taux d'emploi - Etats-Unis,M,Etats-Unis,FRED,2025-12-15,M+3,105
+REAINTRATREARAT1YE,International,International,NA,NA,Taux d'intérêt à 1 an - Etats-Unis,M,Etats-Unis,FRED,2026-01-13,M+0,12
+UNRATE,International,International,Ménages,NA,Taux de chômage - Etats-Unis,M,Etats-Unis,FRED,2026-01-09,M+1,39
+RSXFS,International,International,Services,Commerce de détail (GZ-47),Ventes - Etats-Unis,M,Etats-Unis,FRED,2026-01-14,M+2,74
+CAC40,Finance,International,Finance,,CAC40,Q,France,Yahoo Finance,2026-01-20,M+0,0
+FREPU,Incertitude,International,Ensemble, ,Incertitude de politique économique - FREPU,M,France,"Baker, Bloom, Davis (2016)",2025-12-28,M+0,27
+FRIP,Incertitude,International,Ensemble, ,Risque politique - FRIP,M,France,"Caldara, Dario, and Matteo Iacoviello (2021)",2026-01-12,M+1,42
+EURO.CNY,Finance,International,Finance,,Taux de change EUR-CNY,Q,France,Yahoo Finance,2026-01-20,M+0,0
+EURO.GBP,Finance,International,Finance,,Taux de change EUR-GBP,Q,France,Yahoo Finance,2026-01-20,M+0,0
+EURO.JPY,Finance,International,Finance,,Taux de change EUR-JPY,Q,France,Yahoo Finance,2026-01-20,M+0,0
+EURO.USD,Finance,International,Finance,,Taux de change EUR-USD,Q,France,Yahoo Finance,2026-01-20,M+0,0
+TCNEURO,Finance,International,Finance,,Taux de change effectif - Euro,M,France,Eurostat,2026-01-08,M+2,68
+GSCPI,International,International,Ensemble,,Difficultés d'approvisionnement - GSCPI,M,International,NYFed,2025-10-28,M+0,-34
+NOWCGDP,International,International,Ensemble,,Nowcast du PIB mondial,H,International,UNCTAD,2026-01-13,M+1,43
+NOWCMERCH,International,International,Services,,Nowcast du commerce mondial de marchandises,H,International,UNCTAD,2026-01-13,M+1,43
+NOWCSERV,International,International,Services,,Nowcast du commerce mondial de services,H,International,UNCTAD,2026-01-13,M+1,43
+Brent,"Monnaie, crédit, prix",International,Finance,,Prix du Brent - USD,Q,International,Yahoo Finance,2026-01-20,M+0,0
+VIX,Incertitude,International,Finance,,VIX,Q,International,Yahoo Finance,2026-01-20,M+0,0
+TGZW1QNMISNM,International,International,Ensemble,,Volume du commerce mondial de marchandises,M,International,CPB,2025-10-24,M+0,23
+NIKKEI,Finance,International,Finance,,NIKKEI,Q,Japon,Yahoo Finance,2026-01-20,M+0,0
+FTSE,Finance,International,Finance,,FTSE,Q,Royaume-Uni,Yahoo Finance,2026-01-20,M+0,0
+IQ12260,"Monnaie, crédit, prix",International,NA,NA,Prix de l'or,M,NA,FRED,2026-01-15,M+2,75
+PRAWMINDEXM,"Monnaie, crédit, prix",International,NA,NA,Prix des matières premières,M,NA,FRED,2025-07-18,M+1,47
