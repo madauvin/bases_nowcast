@@ -22,4 +22,4 @@ Toute utilisation de ces données dans un travail de recherche ou une publicatio
 Les données sont mises à disposition à des fins de recherche. Toute réutilisation doit mentionner l'OFCE comme source et citer le document de travail ci-dessus. 
 ## Contact
 
-Pour toute question : [magali.dauvin@sciences-po.fr](mailto:magali.dauvin@sciences-po.fr)
+Pour toute question : [magali.dauvin@sciencespo.fr](mailto:magali.dauvin@sciencespo.fr)
