@@ -4,7 +4,7 @@ Ce dépôt archive les vintages hebdomadaires de la base de données conjoncture
 
 ## Contenu
 
-Chaque vintage est un fichier `.csv` horodaté, structuré de manière identique, et contenant l'ensemble des séries conjoncturelles intégrées dans le modèle à facteurs dynamiques. Les séries couvrent les domaines suivants : activité, commandes et inventaires, construction, finance, incertitude, international, marché du travail, monnaie-crédit-prix.
+Chaque vintage est un fichier `.csv` horodaté, structuré de manière identique, et contenant notamment l'ensemble des séries conjoncturelles intégrées dans le modèle à facteurs dynamiques. Les séries couvrent les domaines suivants : activité, commandes et inventaires, construction, finance, incertitude, international, marché du travail, monnaie-crédit-prix.
 
 ## Fréquence de mise à jour
 
@@ -22,4 +22,4 @@ Toute utilisation de ces données dans un travail de recherche ou une publicatio
 Les données sont mises à disposition à des fins de recherche. Toute réutilisation doit mentionner l'OFCE comme source et citer le document de travail ci-dessus. 
 ## Contact
 
-Pour toute question : [magali.dauvin@sciencespo.fr](mailto:magali.dauvin@sciencespo.fr)
+Pour toute question : [magali.dauvin@sciencespo.fr](mailto:magali.dauvin@sciencespo.fr) et/ou  [raul.sampognaro@sciencespo.fr](mailto:raul.sampognaro@sciencespo.fr)
